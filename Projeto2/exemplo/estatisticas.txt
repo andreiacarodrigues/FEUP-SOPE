@@ -1,0 +1,6 @@
+Estatisticas globais 
+ * tempo de funcionamento do parque : 10
+ * numero de lugares do parque : 5
+ * numero de carros estacionados : 3
+ * numero de carros recusados (ate ao momento) : 18
+ * tempo medio de estacionamento (clocks) : 12166666.666667
